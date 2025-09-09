@@ -21,7 +21,7 @@ It displays a birthday greeting message with styled text.
 ---
 
 ## Screenshot
-![Happy Birthday Screenshot](screenshots/photo_2025-09-09_22-04-03.png)
+![Happy Birthday Screenshot](screenshots/photo_2025-09-09_22-04-03.jpg)
 
 
 ---
